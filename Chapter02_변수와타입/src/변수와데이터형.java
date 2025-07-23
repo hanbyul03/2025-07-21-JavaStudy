@@ -56,11 +56,22 @@
  *   double = int
  *   int = double
  */
+/* 
+ * 국어점수 영어점수 수학점수 평균 충점 학점 저장
+ *   
+ */
 public class 변수와데이터형 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+  int kor=100; 
+  int eng=100; 
+  int math=100;
+  double avg=100.00;
+  int total=300;
+  char score='A';
+  boolean 재평가 = false;
+  
 	}
 
 }
