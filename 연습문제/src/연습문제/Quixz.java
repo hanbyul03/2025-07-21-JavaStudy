@@ -1,3 +1,5 @@
+package 연습문제;
+
 /*
 1. 다음 중 식별자 사용이 잘못된 경우를 모두 골라라.
 
@@ -116,7 +118,7 @@ d. float f = 3.14; // double
 e. double d = 1.4e3f;
 
  */
-public class 정리문제 {
+public class Quixz {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
