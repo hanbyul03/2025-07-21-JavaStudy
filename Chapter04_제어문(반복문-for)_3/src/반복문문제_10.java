@@ -10,7 +10,7 @@ public class 반복문문제_10 {
 				    sum+=i;
 		}
 		System.out.printf("1~100까지의 정수 중 4의 배수의 합:"+sum);
-	
+	  
 		
 	}
 
