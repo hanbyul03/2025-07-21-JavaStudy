@@ -1,6 +1,6 @@
 /*
- *   국어 영어 수학 점수를 입력을 받아서
- *   총점 / 평균 / 학점 출력 
+ *    국어 영어 수학 점수를 입력을 받아서 
+ *    총점 / 평균 / 학점 출력 
  */
 import java.util.*;
 public class 메소드_1 {
@@ -8,7 +8,7 @@ public class 메소드_1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         Scanner scan=new Scanner(System.in);
-        /////////////////입력
+        /////////////// 입력 
         System.out.print("국어 입력:");
         int kor=scan.nextInt();
         
@@ -17,27 +17,27 @@ public class 메소드_1 {
         
         System.out.print("수학 입력:");
         int math=scan.nextInt();
-        /////////////////// 3번 반복 => 제거 => 1. 메소드
-        ///메소드는 무조건 호출시에는 처음부터 끝까지 수행
-        // 요청처리
+        /////////////////// 3번 반복 => 제거 => 1.메소드
+        /// 메소드는 무조건 호출시에는 처음부터 끝까지 수행 
+        // 요청처리 
         int total=kor+eng+math;
-        // 평균
+        // 평균 
         double avg=total/3.0;
         
         char score='A';
-        switch((int)(avg/10)) //정수,문자,문자열
+        switch((int)(avg/10))// 정수 , 문자 , 문자열 
         {
           case 10,9 ->{
-        	   score='A';
+        	 score='A';
           }
           case 8 ->{
-        	  score='B';
+        	 score='B';
           }
           case 7 ->{
-        	  score='C';
+         	 score='C';
           }
           case 6 ->{
-        	  score='D';
+         	 score='D';
           }
           default ->{
         	  score='F';

@@ -7,7 +7,8 @@ public class 메소드_1_재사용 {
         int month=메소드_1_변환.input("월 입력:");
         int day=메소드_1_변환.input("일 입력:");
         
-        System.out.println(year+"년도 "+month+"월 "+day+"일");
+        System.out.println(year+"년도 "+month+"월 "
+        		+day+"일");
 	}
 
 }
