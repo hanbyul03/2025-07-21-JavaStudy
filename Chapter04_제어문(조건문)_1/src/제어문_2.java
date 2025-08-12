@@ -1,7 +1,7 @@
 // 국어/영어/수학 점수 입력 => 총점 , 평균 => 60이상이면 합격,불합격 
 import java.util.Scanner;
 public class 제어문_2 {
-
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         Scanner scan=new Scanner(System.in);
