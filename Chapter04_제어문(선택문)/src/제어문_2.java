@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 /*
  *   1. 사용자 입력 -> 메소드 (중복 제거) => 기능 
  *   2. 입력 처리 -> 메소드 => 재사용 
