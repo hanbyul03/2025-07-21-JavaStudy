@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; 
 public class 정리_4 {
 
 	public static void main(String[] args) {

@@ -1,5 +1,5 @@
 // 사용자로부터 세 개의 정수를 입력받아, 그 수들의 최대값과 최소값, 
-//합계와 평균을 구해보자.
+//합계와 평균을 구해보자. 
 public class 문제4 {
 
 	public static void main(String[] args) {
