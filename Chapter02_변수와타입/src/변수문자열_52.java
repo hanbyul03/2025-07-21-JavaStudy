@@ -12,4 +12,4 @@ public class 변수문자열_52 {
         System.out.println(news);
 	}
 
-} 
+}  
