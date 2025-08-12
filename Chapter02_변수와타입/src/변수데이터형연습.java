@@ -1,5 +1,5 @@
 import java.util.Scanner; // 라이브러리 읽기 
-public class 변수데이터형연습 {
+public class 변수데이터형연습 { 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
