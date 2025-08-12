@@ -25,5 +25,5 @@ public class 변수데이터형연습 {
         double avg=total/3.0;
         System.out.printf("평균:%.2f\n",avg);
 	}
-
+ 
 }
