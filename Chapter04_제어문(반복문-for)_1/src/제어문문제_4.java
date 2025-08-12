@@ -18,4 +18,4 @@ public class 제어문문제_4 {
         System.out.println("sum="+sum);
 	}
 
-}
+} 

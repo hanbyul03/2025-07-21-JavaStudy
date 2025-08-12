@@ -1,4 +1,4 @@
-// 알파벳 출력 => ABCD~Z => 가 ~ 힣
+// 알파벳 출력 => ABCD~Z => 가 ~ 힣 
 public class 제어문_1 {
 
 	public static void main(String[] args) {

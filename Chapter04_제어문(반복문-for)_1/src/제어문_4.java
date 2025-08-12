@@ -1,4 +1,4 @@
-// index번호 찾기 
+// index번호 찾기  
 // 자바 : index 번호 => 0번부터 시작 
 // 오라클 : index 번호 => 1번부터 시작 
 import java.util.Scanner;
