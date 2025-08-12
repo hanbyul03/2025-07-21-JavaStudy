@@ -33,7 +33,7 @@ public class 제어문_5 {
         	{
         		System.out.println(num+"은(는) 다른 수입니다");
         	}
-        	
+         	
         }
         else
         {
