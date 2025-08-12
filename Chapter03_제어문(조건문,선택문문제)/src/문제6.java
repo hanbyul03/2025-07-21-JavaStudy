@@ -13,4 +13,4 @@ public class 문제6 {
 	 else
 		 System.out.println(c+"는(은) 소문자");
   }
-}
+} 

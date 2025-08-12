@@ -27,4 +27,4 @@ public class 문제7 {
 		  score='F';
 	  System.out.println("학점:"+score);
    }
-}
+} 

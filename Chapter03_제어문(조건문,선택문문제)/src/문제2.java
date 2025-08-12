@@ -14,4 +14,4 @@ public class 문제2 {
         	System.out.println(num+"는(은) 3의 배수가 아니다");
 	}
 
-}
+} 

@@ -29,7 +29,7 @@ public class 문제8 {
 		   }
 		   case 6 ->{
 			  score='D';
-		   }
+		   } 
 		   default ->{
 			  score='F';
 		   }*/

@@ -1,5 +1,5 @@
 //사용자로부터 정수를 입력받아서 양수인지 음수인지 확인하는 프로그램 작성
-
+ 
 import java.util.Scanner;
 
 public class 문제5 {
