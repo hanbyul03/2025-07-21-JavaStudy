@@ -132,7 +132,11 @@ public class 증감연산자 {
         System.out.println(c1);
 	}
 	/*
+<<<<<<< HEAD
 	 *   ++ , -- => 무조거 1개증가/1개감소
+=======
+	 *   ++ , -- => 무조건 1개증가/1개감소
+>>>>>>> branch 'master' of https://github.com/hanbyul03/2025-07-21-JavaStudy.git
 	 *   int a=10;
 	 *   int b = a ++;
 	 *       ----- --
